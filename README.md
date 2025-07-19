@@ -1,7 +1,4 @@
 # AdvancedCaptcha
-AdvancedCaptcha is a modern and customizable captcha plugin for Minecraft hub servers. Prevent bots, macros, and automated scripts with intuitive chat-based captchas.
-
-# AdvancedCaptcha
 
 A modern, multilingual, and user-friendly captcha plugin for Minecraft **hub servers**.  
 Secure your lobby from bots and macros with customizable chat-based captcha challenges.
