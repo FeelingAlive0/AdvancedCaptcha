@@ -1,0 +1,47 @@
+# Default language for messages (en, ru, ua, etc.)
+language: en
+
+# Supported languages for player locale detection
+supported-languages:
+  - en
+  - ru
+  - ua
+
+# Logging level (INFO, DEBUG, WARN)
+log-level: INFO
+
+# Captcha settings
+captcha:
+  # Type of captcha (BUTTON, MATH, RANDOM)
+  captcha-type: RANDOM
+  # Cooldown for re-verification in milliseconds (default: 6 hours)
+  cooldown: 21600000
+  # Minimum number of buttons in captcha
+  button-count-min: 4
+  # Maximum number of buttons in captcha
+  button-count-max: 7
+  # Maximum number of attempts to pass captcha
+  max-attempts: 2
+  # Timeout for captcha completion in seconds
+  timeout: 300
+  # Commands allowed during captcha verification
+  allowed-commands:
+    - /login
+    - /register
+  # Colors used for buttons
+  button-colors:
+    - BLUE
+    - GREEN
+    - RED
+    - YELLOW
+    - WHITE
+    - BLACK
+    - GRAY
+    - LIGHT_PURPLE
+  # Sound and particle effects
+  success-sound: ENTITY_PLAYER_LEVELUP
+  fail-sound: ENTITY_VILLAGER_NO
+  success-particle: VILLAGER_HAPPY
+  fail-particle: SMOKE_NORMAL
+  # Anti-macro threshold in milliseconds (minimum time to click to avoid macro detection)
+  anti-macro-threshold: 200
