@@ -1,10 +1,5 @@
 # AdvancedCaptcha
 
-![build](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)
-
-[![Spigot](https://img.shields.io/badge/Available%20on-Spigot-a0522d?logo=spigot&logoColor=white)](https://www.spigotmc.org/resources/next-gen-custom-ender-chest-async-multi-storage-mysql-h2-yml-folia-support.127090/)
-
 A modern, multilingual, and user-friendly captcha plugin for Minecraft **hub servers**.  
 Secure your lobby from bots and macros with customizable chat-based captcha challenges.
 
