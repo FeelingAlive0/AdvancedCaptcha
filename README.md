@@ -5,9 +5,6 @@
   <a href="https://www.spigotmc.org/resources/127093/">
     <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/spigot_vector.svg" alt="Spigot" />
   </a>
-  <a href="https://modrinth.com/plugin/advancedcaptcha">
-    <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg" alt="Modrinth" />
-  </a>
 </p>
 
 ---
